@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x360
-http://pull.sdywtk.com/live/1121675377743304/playlist.m3u8?wsSecret=791186d43be13a77dbfead76407dc527&wsABSTime=63f9dd1a
+http://hls.aishoucang.la/livestream/weixingyuan6/playlist.m3u8?k=03eb6a57a3971b9c5a3f71e7a2b864d7&a=211.21.114.46&u=111&t=1677292694
