@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x360
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677326502/ei/RaT5Y7_HO5CvvcAPtdOxkAk/ip/103.144.14.7/id/fYLRofti-ss.1/source/yt_live_broadcast/requiressl/yes/tx/24468685/txs/24468683%2C24468684%2C24468685%2C24468686%2C24468687%2C24468688%2C24468689/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/gcr/id/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOidbeConO40DOhkwNb4bU75QtyDzfGB9HFSJgMeKNxkAiEAtaUOozsBDQnBw-Apu9m0ZXa6Y3SFNmHPNXoSmDtUfkQ%3D/file/index.m3u8
+http://hls.aishoucang.la/livestream/weixingyuan11/playlist.m3u8?k=4b38a5f00cf9f9d4814191431d9419c0&a=211.21.114.46&u=111&t=1677292764
